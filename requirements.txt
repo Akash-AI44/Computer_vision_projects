@@ -1,0 +1,19 @@
+# Core Computer Vision & Numerical Processing
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0
+
+# Deep Learning & Object Detection
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# MediaPipe (Tasks API)
+mediapipe>=0.10.0
+
+# Optical Character Recognition
+easyocr>=1.7.0
+
+# Image & Utility Support
+Pillow>=9.0.0
+matplotlib>=3.5.0

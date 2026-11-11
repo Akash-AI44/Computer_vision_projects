@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code & IDE files
+.vscode/*
+!.vscode/settings.json
+.idea/
+
+# Operating System files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Temporary outputs & logs
+*.log
+runs/
+cv-projects/motion_*.jpg
+motion_*.jpg
+
+# Large dataset files (if any in future)
+*.tar.gz
+*.zip
